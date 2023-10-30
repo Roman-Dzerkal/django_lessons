@@ -1,0 +1,16 @@
+/*write a style with bold text*/
+.custom_text {
+    font-weight: bold;
+    font-family: cursive;
+    color: blueviolet;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: cursive;
+    color: red;
+}
+
+p {
+    padding: 10px;
+}
